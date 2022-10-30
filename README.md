@@ -26,6 +26,18 @@
   <div>
     <a href="https://www.linkedin.com/in/jessica-campos-a40414255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+  
+  ##
+ 
 
-    
-  </div>
+<blockquote>
+  <p>
+    "A tecnologia viabiliza o potencial humano"
+      </p>
+  <p>
+    <b>Michael Dell</b>
+      </P>
+<blockquote>
+
+
+  

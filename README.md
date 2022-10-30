@@ -2,8 +2,8 @@
 
 - 📚 Estudante de Engenharia de Computação - UFC 
 - 🌱 Aprendendo C e C++
-- 🔭 Tenho interesse na área de IA
 - ☺️ Pronomes: Ela/Dela
+
 
 ##
 
@@ -18,6 +18,8 @@
   <div style="display: inline_block"><br>
         <img align="center" alt="Jess" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
          <img align="center" alt="Jess" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+        <img align="right" alt="Jess" height="150" style="border-radius:50px;" src="https://www.canva.com/design/DAFQjTS4GW4/TldHnm5iZKeGHh6lIOu-pg/edit?utm_content=DAFQjTS4GW4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+
          
   </div>
   

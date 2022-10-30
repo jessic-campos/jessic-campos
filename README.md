@@ -18,7 +18,7 @@
   <div style="display: inline_block"><br>
         <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
          <img align="center" alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-        <img align="right" alt="GIF" height="150" style="border-radius:50px;" src="">
+        <img align="right" alt="GIF" height="170" style="border-radius:70px;" src="https://github.com/jessic-campos/jessic-campos/blob/main/Design%20sem%20nome.gif">
 
          
   </div>

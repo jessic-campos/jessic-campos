@@ -2,7 +2,6 @@
 
 - 📚 Estudante de Engenharia de Computação - UFC 
 - 🌱 Aprendendo C e C++
-- ☺️ Pronomes: Ela/Dela
 
 
 ##
